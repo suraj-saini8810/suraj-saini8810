@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Saini</h1>
 <h3 align="center">A passionate Student intrested in Machine Learning and Data Analyst from India</h3>
 
-- 🔭 I’m currently working on [Gold price Precdictor Modle](www.linkedin.com/in/surajsaini8810)
-
 - 🌱 I’m currently learning **python , Macine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-saini8810](https://github.com/suraj-saini8810)
@@ -37,6 +35,6 @@
 ## 📂 Featured Projects
 - [Spam Detection Model](https://github.com/prithvi8810/spam-detection)  
 - [Disaster Management in C](https://github.com/prithvi8810/disaster-management)  
-- [Gold Price Prediction](https://github.com/prithvi8810/gold-price-prediction)  
-
+- [Gold Price Prediction](https://github.com/prithvi8810/gold-price-prediction)
+- [House Price Prediction](https://github.com/suraj-saini8810/house-price-predictor)
 
